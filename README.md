@@ -35,7 +35,7 @@
 
 ------
 
-#### Hello, my name is Ethan, and I'm a college student in the United States
+#### Hello, my name is Ethan, and I'm a college student studying at Cornell University
 #### Feel free to add me on any of the linked socials or check out my repos
 
 <br /> 
